@@ -1,2 +1,2 @@
-# htmlForms
-Example of a simple form using HTML
+# HTML Input 2 IC
+Reproduce the form in the provided image
